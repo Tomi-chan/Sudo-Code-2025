@@ -1,0 +1,33 @@
+# Ignore data folder
+data/
+
+W1_Text_Preprocessing/data/
+
+# Ignore virtual environment
+myenv/
+
+# Optional: ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Optional: ignore cache
+__pycache__/
+# Environment
+myenv/
+.venv/
+
+# Data
+data/
+*.csv
+*.json
+
+# Cache & temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Jupyter
+*.ipynb_checkpoints/
